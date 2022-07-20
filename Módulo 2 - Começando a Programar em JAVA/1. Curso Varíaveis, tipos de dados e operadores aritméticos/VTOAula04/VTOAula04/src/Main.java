@@ -7,6 +7,8 @@
 public class Main {
 
     public static void main(String[] args) {
+        int i = 3;
+        System.out.println(10 - 5 * 2 + --i);
 
         byte b1;
         short s1 = 1000;
